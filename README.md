@@ -1,11 +1,11 @@
 # README
 
-## GROUP <add-group-name>
+## GROUP 14
 
-- Member 1: <add-name>
-- Member 2: <add-name>
-- Member 3: <add-name>
-- Member 4: <add-name>
+- Member 1: Nguyễn Anh Tú
+- Member 2: Đặng Quốc Bảo
+- Member 3: Ngô Diệu Linh
+- Member 4: Phạm Vũ Quỳnh Anh
 
 ## Starting server
 
